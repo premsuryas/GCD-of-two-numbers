@@ -18,20 +18,20 @@ To write a program to find the GCD of two numbers using function.
 /*
 Program to find the gcd of two number using function
 Developed by:PREM KUMAR 
-RegisterNumber:23013598  
-
-```
+RegisterNumber:23013598
+### OUTPUT:  
 def gcd():
   a=int(input())
   b=int(input())
   while b:
     a,b=b,a%b
   print(f"GCD of two numbers is:",a)
-```
+
 
 
 ## Output:
-(![GCD OUTPUT](https://github.com/premsuryas/GCD-of-two-numbers/assets/147473858/5c2e4b49-a12f-461a-861a-4931de2dd13f)
+![output](![gct output](https://github.com/premsuryas/GCD-of-two-numbers/assets/147473858/aff9e4dc-1db8-4de3-bc63-d003a2270011)
+)
 
 .png)
 
