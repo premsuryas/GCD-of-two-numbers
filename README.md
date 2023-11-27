@@ -19,7 +19,7 @@ To write a program to find the GCD of two numbers using function.
 Program to find the gcd of two number using function
 Developed by:PREM KUMAR 
 RegisterNumber:23013598  
-*/
+
 ```
 def gcd():
   a=int(input())
@@ -31,7 +31,7 @@ def gcd():
 
 
 ## Output:
-![gcd of two number](![GCD OUTPUT](https://github.com/premsuryas/GCD-of-two-numbers/assets/147473858/5c2e4b49-a12f-461a-861a-4931de2dd13f)
+(![GCD OUTPUT](https://github.com/premsuryas/GCD-of-two-numbers/assets/147473858/5c2e4b49-a12f-461a-861a-4931de2dd13f)
 
 .png)
 
